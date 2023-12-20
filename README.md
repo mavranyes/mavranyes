@@ -1,4 +1,11 @@
-### Hi there 👋
+### Salutations, good folks 👋
+
+My name is Micah, and I am currently a student at Cedarville University,
+pursuing a degree in Computer Science
+
+- 🔭 I’m currently working on a projecet to display reviews
+- 🌱 I’m currently learning React
+- ⚡ Fun fact: facts are only fun as the people telling them
 
 <!--
 **mavranyes/mavranyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
