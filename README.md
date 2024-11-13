@@ -5,7 +5,7 @@ pursuing a degree in Computer Science
 
 - 🔭 I’m currently working on a webapp to display reviews
 - 🌱 I’m currently learning React
-- ⚡ Fun quote: If I had more time, I would have writen a shotter letter
+- ⚡ Fun quote: If I had more time, I would have writen a shoter letter
 
 <!--
 **mavranyes/mavranyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
